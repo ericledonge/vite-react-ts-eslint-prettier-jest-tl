@@ -2,10 +2,10 @@ import './App.css';
 
 import React from 'react';
 
-import Hello from './components/Hello';
+import Exercise from './components/Exercise/exercise';
 
 function App() {
-  return <Hello name="Éric" />;
+  return <Exercise />;
 }
 
 export default App;
