@@ -1,0 +1,17 @@
+.my-box {
+  border: 1px solid #000;
+
+  &__title {
+    color: blue;
+  }
+
+  &__button {
+    background-color: green;
+
+    &--secondary {
+      background-color: purple;
+    }
+  }
+}
+
+

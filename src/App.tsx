@@ -2,10 +2,10 @@ import './App.css';
 
 import React from 'react';
 
-import Exercise from './components/Exercise/exercise';
+import Exercise2 from './components/Exercise/exercise2';
 
-function App() {
-  return <Exercise />;
+function App(): JSX.Element {
+  return <Exercise2 />;
 }
 
 export default App;
